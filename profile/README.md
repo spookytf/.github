@@ -1,5 +1,5 @@
 ![banner-logo](https://user-images.githubusercontent.com/16076573/192673098-48467c36-2d96-43ca-bc02-5ec993989ceb.gif)
-# spooky.tf
+# a spell marketplace with massive ambitions
 We're building the next big thing in terms of an integrated TF2 community experience. Automating what can be automated ethically, and leaving the rest to good old humans, our servers and our websites will aim to provide the best prices, feature-sets, and community benefits available. **Thank you for spooking with us!**
 
 ### our domain aliases
@@ -8,7 +8,7 @@ _any domain other than these IS NOT OURS!_
 - `boo.tf`
 - `spookytf.com`
 
-#### ***BE CAREFUL WHEN TRADING!***
+#### ***ALWAYS BE CAREFUL WHEN TRADING & DOUBLE CHECK!***
 
 
 ## directives
