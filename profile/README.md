@@ -59,6 +59,5 @@ These plugins will faciliate some features of our custom trade map as well as ot
 
 ![stf-logo-2](https://user-images.githubusercontent.com/16076573/192679367-16486f47-8f2f-4108-a643-1b2aab1de7b8.png)
 
-## *bonus*
 ![spookyyy](https://user-images.githubusercontent.com/16076573/192679534-c4bac976-63f8-4077-b74c-f21868a6a07c.png)
 
