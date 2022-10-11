@@ -18,7 +18,7 @@ _any domain other than these IS NOT OURS!_
 
 # directives
 These are some of the distinct projects that the spooky.tf team is undertaking.
-## [`spooky.tf`](https://github.com/zudsniper/spookytf)  
+## [`spooky.tf`](https://github.com/spookytf/spookytf)  
 This will be our main focus for the foreseeable future of the project. We plan to bring reasonable buy & sell prices even when examined thoroughly by the most seasoned of traders, all without sacrificing any user experience. (Any one should be able to use it!)  
 
 > prerelease landing page  
@@ -29,7 +29,7 @@ This will be our main focus for the foreseeable future of the project. We plan t
 ![prerelease tradeoffer account create page](https://user-images.githubusercontent.com/16076573/192677067-ce33dd96-0f19-4cff-bd97-10a129d3a640.png)
 
 
-## [`stf-discord-bot`](https://github.com/zudsniper/stf-discord-bot)  
+## [`stf-discord-bot`](https://github.com/spookytf/stf-discord-bot)  
 The discord bot is simply an integration that will add some additional functionality to our [home discord server](https://spooky.tf/discord/), as well some other features yet to be announced.  
 
 > discord bot's profile (offline)
@@ -85,4 +85,9 @@ These plugins will faciliate some features of our custom trade map as well as ot
  -- zod
 
 ![stf-logo-2](https://user-images.githubusercontent.com/16076573/192679367-16486f47-8f2f-4108-a643-1b2aab1de7b8.png)
+
+> oh also shameless plug pls donate to my mge server via [my profile!](https://github.com/zudsniper/)  
+
+[![donation hamter](https://camo.githubusercontent.com/d86f75137354ac38148f99f43507f9b0147db9a4cff67b8f27b267c6d1e25bed/68747470733a2f2f692e696d6775722e636f6d2f666e344c536d432e706e67)  
+click on the hamter to donate directly C:](https://donate.contenthell.earth/)
 
