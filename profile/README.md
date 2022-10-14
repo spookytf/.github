@@ -2,6 +2,11 @@
 # a `WIP` spell marketplace with massive ambitions
 We're building the next big thing in terms of an integrated TF2 community experience. Automating what can be automated ethically, and leaving the rest to good old humans, our servers and our websites will aim to provide the best prices, feature-sets, and community benefits available. **Thank you for spooking with us!**
 
+## `SERVICES STATUS` - ❌ *not live*
+*under active development.*
+
+<hr>
+
 ![spookyyy](https://user-images.githubusercontent.com/16076573/192679534-c4bac976-63f8-4077-b74c-f21868a6a07c.png)
 
 # ⚠️ security ⚠️
