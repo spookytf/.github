@@ -72,11 +72,11 @@ These plugins will faciliate some features of our custom trade map as well as ot
 <img src=https://user-images.githubusercontent.com/16076573/195009007-a2fb22f9-ace5-441e-92a4-57b636183594.png width=140 height=170 >
 
 # contributors
-- **zod** (@zudsniper)  > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator
+- **zod** (@zudsniper) > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator
 - **meh** (@supercybermeh) > js & excel developer
+- **Sylvan** (@SylvanEvergreen) > frontend developer
 - **Pigzit** (twitch @Pigzit) > source map developer
 - **tommyy** (@tommy-mor) > source mod developer
-- **ivan** (@rawleyfowler) > development & project structure consultant
 
 # closing quote
 
