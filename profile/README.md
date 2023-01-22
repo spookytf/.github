@@ -1,31 +1,55 @@
-![banner-logo](https://user-images.githubusercontent.com/16076573/192673098-48467c36-2d96-43ca-bc02-5ec993989ceb.gif)
-# a `WIP` spell marketplace with massive ambitions
-We're building the next big thing in terms of an integrated TF2 community experience. Automating what can be automated ethically, and leaving the rest to good old humans, our servers and our websites will aim to provide the best prices, feature-sets, and community benefits available. **Thank you for spooking with us!**
+<details>
 
-> **UPDATE 1/13/2022**  
 > There have been significant delays in the production process due to a fullstack rewrite to switch from a monolithic to a microservices-based paradigm for our backend.   
 > I personally apologize for the extra time spent, but I wouldn't have OK'd it if I didn't think it was necessary. We want to have _the best_ backend of a Steam bot service -- which of course we won't, but that's my level of aspiration / delusion -- and I'm willing to sacrifice more time before launching MVP in favor of a more scalable backend. I hope you understand.   
-> -- @zudsniper
+> -- [@zod](https://github.com/zudsniper/)
+
+<summary>
+<b>UPDATE 1/13/2022</b> <sub>(click)</sub> 
+
+</summary>
+
+</details>
+
+---
+
+<div align=center>
+
+![stf-logo-2](https://user-images.githubusercontent.com/16076573/192679367-16486f47-8f2f-4108-a643-1b2aab1de7b8.png)
+# a `WIP` spell marketplace with massive ambitions
+
+</div>
+
+We're building the next big thing in terms of an integrated TF2 community experience. Automating what can be automated ethically, and leaving the rest to good old humans, our servers and our websites will aim to provide the best prices, feature-sets, and community benefits available. **Thank you for spooking with us!**
+
+<div align="center">
+
+### 🌎🌍🌏
+### 🛰️
+
+<img src="https://user-images.githubusercontent.com/16076573/207874445-55014680-fc37-46bf-bcfd-ba74435a2c13.png" alt="image" style="max-width: 100%;" width=60> <img src="https://user-images.githubusercontent.com/16076573/207875248-3274ef79-03b4-4ef3-9b10-a95385925f8a.png" alt="image" style="max-width: 100%;" width=60> <img src="https://user-images.githubusercontent.com/16076573/207874380-646dc74a-a92b-467f-a90e-cbe910dfcf23.png" alt="image" style="max-width: 100%;" width=60> <img src="https://user-images.githubusercontent.com/16076573/207875665-935f4f23-0912-4189-b2d2-72590f73c2e2.png" alt="image" style="max-width: 100%;" width=60> <img src="https://user-images.githubusercontent.com/16076573/207875524-6b9a015c-a9f4-4698-ac5d-bbf8fc5a57c1.png" alt="image" style="max-width: 100%;" width=60>  
+</div>
 
 <hr>
 
 ![bg-2](https://user-images.githubusercontent.com/16076573/212541078-d9114c49-9638-4565-bbe2-8ad7ecaf1dc3.png)
 
-## `SERVICES STATUS` - ❌ *STILL not live*
-- *`SPELLS API`* => 60% finished
-- *`NEW BACKEND`* => 80% finished
-- *`NEW FRONTEND`* => 10% finished (yikes)
-- *`TRADE MAP`* => 95% finished!
-- *`SM PLUGIN`* => finished, bug fixes
+# `SERVICES STATUS` - 🟡 *STILL not ALL live*
+- ✔️ *`SPELLS API`* => **DEPLOYED**
+- 🟡 *`NEW BACKEND`* => 80% finished
+- ❌ *`NEW FRONTEND`* => 10% finished (yikes)
+- ✔️ *`TRADE MAP`* => **DEPLOYED**
+- ✔️ *`SM PLUGIN`* => **DEPLOYED**
 
-# contributors
-- **Jason** (@zudsniper) > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator
-- **Daniel** (@dkasabovn) > backend developer, microservices architect, project workflow guru
-- **Will** (@Pigzit) > source map developer
-- **tk** (@teamkiller342) > sourcemod plugin developer
-- **Lara** (@laralove143) > scripting developer, scraping enthusiast, database structure architect
-- **Niko** (@nikolaikumar) > frontend / middleware developer 
-- **meh** (@supercybermeh) > jr. js & excel developer
+# CONTRIBUTORS
+- **zod** ([@zudsniper](https://github.com/zudsniper)) > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator (TypeScript)
+- **daniel** ([@dkasabovn](https://github.com/dkasabovn)) > backend developer & architect (Golang)
+- **lara** ([@laralove143](https://github.com/laralove143)) > autopricer & script developer (Rust)
+- **carson** ([@pumbyy](https://github.com/pumbyy)) > head of scheduling, organization, finances, HR
+- **niko** ([@nikokumar](https://github.com/nikokumar)) > 
+- **meh** ([@supercybermeh](https://github.com/supercybermeh)) > js & excel developer (excel formulas)
+- **Pigzit** ([@pigzit](https://github.com/pigzit)) > source map developer (Hammer Editor)
+- **tk** ([@Teamkiller324](https://github.com/Teamkiller324)) > sourcemod plugin developer (SourcePawn)
 
 # PROJECTS
 These are some of the distinct projects that the spooky.tf team is undertaking.
@@ -57,8 +81,13 @@ The discord bot is simply an integration that will add some additional functiona
 
 > **Notably**, our team has adapted and streamlined significantly over the mistakes made (in no small part by yours truly) and we are pushing forwards to RELEASE MVP. 
 
-## `trade_spookytf` custom trade map!  
-`THIS SERVER WILL BE LIVE AFTER JANUARY 20th!`  
+## ✔️ `trade_spookytf` CUSTOM TRADE MAP!  
+`SERVER IS LIVE!` (prerelease 4)  
+
+### **Join Command**
+```sh
+$ connect trade.spooky.tf:27017
+```  
 This is an entirely custom designed trade map developed by experienced developer @Pigzit, and features a sprawling spawn manor, creepy gardens, bridges, chandeliers, and (well obviously) GHOSTS!  
 ![flames_420](https://user-images.githubusercontent.com/16076573/212541357-651d1cd2-35e7-4a47-b1ca-aad0d8378706.png)
 
@@ -112,14 +141,8 @@ _any domain other than these IS NOT OURS!_
 - `boo.tf`
 - `spookytf.com`
 
-## ***ALWAYS BE CAREFUL WHEN TRADING & DOUBLE CHECK!***
+---
 
-![stf-logo-2](https://user-images.githubusercontent.com/16076573/192679367-16486f47-8f2f-4108-a643-1b2aab1de7b8.png)
-
-> oh also shameless plug pls donate to my mge server via [my profile!](https://github.com/zudsniper/)  
-
-[![donation hamter](https://camo.githubusercontent.com/d86f75137354ac38148f99f43507f9b0147db9a4cff67b8f27b267c6d1e25bed/68747470733a2f2f692e696d6775722e636f6d2f666e344c536d432e706e67)  
-click on the hamter to donate directly C:](https://donate.contenthell.earth/)
-
-
-
+![banner-logo](https://user-images.githubusercontent.com/16076573/192673098-48467c36-2d96-43ca-bc02-5ec993989ceb.gif)  
+<i>spooky.tf</i><br>
+<span>ALL RIGHTS RESERVED</span>
