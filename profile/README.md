@@ -11,6 +11,8 @@
 
 </details>
 
+<sub>Are you **`SPOOKYTF`** staff or dev? <a href="https://github.com/login/" ><i>Trying to get to <code>.github_private</code>? Click to login to your GitHub.</i></a></sub>
+
 ---
 
 <div align=center>
