@@ -43,14 +43,15 @@ We're building the next big thing in terms of an integrated TF2 community experi
 - ✔️ *`TRADE MAP`* => **DEPLOYED**
 - ✔️ *`SM PLUGIN`* => **DEPLOYED**
 
-# CONTRIBUTORS
-- **zod** ([@zudsniper](https://github.com/zudsniper)) > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator (TypeScript)
-- **daniel** ([@dkasabovn](https://github.com/dkasabovn)) > backend developer & architect (Golang)
-- **lara** ([@laralove143](https://github.com/laralove143)) > autopricer & script developer (Rust)
-- **carson** ([@pumbyy](https://github.com/pumbyy)) > head of scheduling, organization, finances, HR
-- **niko** ([@nikokumar](https://github.com/nikokumar)) > 
-- **meh** ([@supercybermeh](https://github.com/supercybermeh)) > js & excel developer (excel formulas)
-- **Pigzit** ([@pigzit](https://github.com/pigzit)) > source map developer (Hammer Editor)
+# Contributors
+- **jason** ([@zudsniper](https://github.com/zudsniper)) > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator 
+- **daniel** ([@dkasabovn](https://github.com/dkasabovn)) > lead backend developer & architect (Golang)
+- **lara** ([@laralove143](https://github.com/laralove143)) > lead databases engineer, autopricer & script developer (Rust)
+- **carson** ([@pumbyy](https://github.com/pumbyy)) > executive administrator
+- **niko** ([@nikokumar](https://github.com/nikokumar)) > _forgot to `push`_
+- **oskar** ([@osc44r](https://github.com/osc44r)) > scraping tool developer (Python)  
+- **meh** ([@supercybermeh](https://github.com/supercybermeh)) > js & excel developer (Excel Formulas)
+- **will** ([@pigzit](https://github.com/pigzit)) > source map developer (Hammer Editor)
 - **tk** ([@Teamkiller324](https://github.com/Teamkiller324)) > sourcemod plugin developer (SourcePawn)
 
 # PROJECTS
