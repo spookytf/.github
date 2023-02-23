@@ -44,15 +44,20 @@ We're building the next big thing in terms of an integrated TF2 community experi
 - ✔️ *`SM PLUGIN`* => **DEPLOYED**
 
 # Contributors
-- **jason** ([@zudsniper](https://github.com/zudsniper)) > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator 
+
+### Administrative  
+> **sebastian** ([@Frankening](https://github.com/Frankening)) > CFO & chairman of the board  
+> **carson** ([@pumbyy](https://github.com/pumbyy)) > executive administrator  
+
+### Development 
+- **jason** ([@zudsniper](https://github.com/zudsniper)) > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator  
 - **daniel** ([@dkasabovn](https://github.com/dkasabovn)) > lead backend developer & architect (Golang)
 - **lara** ([@laralove143](https://github.com/laralove143)) > lead databases engineer, autopricer & script developer (Rust)
-- **carson** ([@pumbyy](https://github.com/pumbyy)) > executive administrator
-- **niko** ([@nikokumar](https://github.com/nikokumar)) > _forgot to `push`_
 - **oskar** ([@osc44r](https://github.com/osc44r)) > scraping tool developer (Python)  
-- **meh** ([@supercybermeh](https://github.com/supercybermeh)) > js & excel developer (Excel Formulas)
 - **will** ([@pigzit](https://github.com/pigzit)) > source map developer (Hammer Editor)
 - **tk** ([@Teamkiller324](https://github.com/Teamkiller324)) > sourcemod plugin developer (SourcePawn)
+- **meh** ([@supercybermeh](https://github.com/supercybermeh)) > js & excel developer (Excel Formulas)
+
 
 # PROJECTS
 These are some of the distinct projects that the spooky.tf team is undertaking.
@@ -89,7 +94,7 @@ The discord bot is simply an integration that will add some additional functiona
 
 ### **Join Command**
 ```sh
-$ connect trade.spooky.tf:27017
+$ connect trade.spooky.tf
 ```  
 This is an entirely custom designed trade map developed by experienced developer @Pigzit, and features a sprawling spawn manor, creepy gardens, bridges, chandeliers, and (well obviously) GHOSTS!  
 ![flames_420](https://user-images.githubusercontent.com/16076573/212541357-651d1cd2-35e7-4a47-b1ca-aad0d8378706.png)
@@ -143,6 +148,12 @@ _any domain other than these IS NOT OURS!_
 - `spooky.tf` 
 - `boo.tf`
 - `spookytf.com`
+#### affiliated
+- `contenthell.earth`
+- `zod.tf`
+- `rat.church`
+- `poggers.tf`
+
 
 ---
 
