@@ -1,3 +1,15 @@
+> # Welp, it was a good ride while it lasted.
+> Thank you to everyone who supported or even just believed in the project. Unfortunately   
+> **SpookyTF is officially shutting down** effective March 1st, 2023.  
+> This is due to a number of factors including benefactor uncertainty and mismanagement.  
+> I humbly apologize on behalf of myself and my team.  
+> -- [@zudsniper](https://github.com/zudsniper)
+
+---
+
+# EVERYTHING BELOW THIS IS FOR ARCHIVE PURPOSES ONLY.    
+
+
 <details>
 
 > There have been significant delays in the production process due to a fullstack rewrite to switch from a monolithic to a microservices-based paradigm for our backend.   
@@ -36,7 +48,7 @@ We're building the next big thing in terms of an integrated TF2 community experi
 
 ![bg-2](https://user-images.githubusercontent.com/16076573/212541078-d9114c49-9638-4565-bbe2-8ad7ecaf1dc3.png)
 
-# `SERVICES STATUS` - 🟡 *STILL not ALL live*
+# `SERVICES STATUS` - permanently closed
 - ✔️ *`SPELLS API`* => **DEPLOYED**
 - 🟡 *`NEW BACKEND`* => 80% finished
 - ❌ *`NEW FRONTEND`* => 10% finished (yikes)
