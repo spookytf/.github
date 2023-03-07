@@ -58,16 +58,14 @@ We're building the next big thing in terms of an integrated TF2 community experi
 # Contributors
 
 ### Administrative  
-> **sebastian** ([@Frankening](https://github.com/Frankening)) > CFO & chairman of the board  
+~~> **sebastian** ([@Frankening](https://github.com/Frankening)) > CFO & chairman of the board~~  
 > **carson** ([@pumbyy](https://github.com/pumbyy)) > executive administrator  
 
 ### Development 
 - **jason** ([@zudsniper](https://github.com/zudsniper)) > lead developer, project manager, community manager, discord administrator & showrunner, head of hiring, server system administrator  
-- **daniel** ([@dkasabovn](https://github.com/dkasabovn)) > lead backend developer & architect (Golang)
 - **lara** ([@laralove143](https://github.com/laralove143)) > lead databases engineer, autopricer & script developer (Rust)
 - **oskar** ([@osc44r](https://github.com/osc44r)) > scraping tool developer (Python)  
 - **will** ([@pigzit](https://github.com/pigzit)) > source map developer (Hammer Editor)
-- **tk** ([@Teamkiller324](https://github.com/Teamkiller324)) > sourcemod plugin developer (SourcePawn)
 - **meh** ([@supercybermeh](https://github.com/supercybermeh)) > js & excel developer (Excel Formulas)
 
 
