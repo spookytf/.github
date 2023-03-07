@@ -1,13 +1,13 @@
 > # Welp, it was a good ride while it lasted.
 > Thank you to everyone who supported or even just believed in the project. Unfortunately   
-> **SpookyTF is officially shutting down** effective March 1st, 2023.  
-> This is due to a number of factors including benefactor uncertainty and mismanagement.  
+> ### **SpookyTF is officially shutting down** effective March 1st, 2023.  
+> This is due to a number of factors including benefactor uncertainty and mismanagement. <sub>(Guess who's fault it is and you'll probably be right.)</sub>  
 > I humbly apologize on behalf of myself and my team.  
 > -- [@zudsniper](https://github.com/zudsniper)
 
 ---
 
-# EVERYTHING BELOW THIS IS FOR ARCHIVE PURPOSES ONLY.    
+<details><summary><code>view previous</code></summary>
 
 
 <details>
@@ -172,3 +172,5 @@ _any domain other than these IS NOT OURS!_
 ![banner-logo](https://user-images.githubusercontent.com/16076573/192673098-48467c36-2d96-43ca-bc02-5ec993989ceb.gif)  
 <i>spooky.tf</i><br>
 <span>ALL RIGHTS RESERVED</span>
+
+</details>
