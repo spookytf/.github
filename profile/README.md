@@ -5,6 +5,8 @@
 > I humbly apologize on behalf of myself and my team.  
 > -- [@zudsniper](https://github.com/zudsniper)
 
+> [way too much info](https://spooky.poggers.tf)
+
 ---
 
 <details><summary><code>view previous</code></summary>
